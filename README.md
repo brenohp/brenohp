@@ -17,3 +17,6 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+ 
+<p><img align="center" src="https://github.com/brenohp/github-stats/blob/actions_branch/generated_images/languages.svg" alt="langs1" /><img align="center" src="https://github.com/brenohp/github-stats/blob/actions_branch/generated_images/overview.svg" alt="overview" /></p>
+<img align="center" src="https://github.com/brenohp/github-stats/blob/actions_branch/generated_images/github-snake.svg"/>
