@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Breno Henrique</h1>
-<h3 align="center">A Front-end web development</h3>
+<h3 align="center">a programming enthusiast</h3>
 
 
 <h3 align="left">Languages:</h3>
