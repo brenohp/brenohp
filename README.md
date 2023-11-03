@@ -14,7 +14,7 @@
 
   <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/pt-br/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> <a href="https://azure.microsoft.com/pt-br/" target="_blank"> <a href="https://aws.amazon.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenohp)](https://github.com/brenohp/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenohp)](https://github.com/brenohp/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenohp)](https://github.com/brnenohp/github-readme-stats)
    
 
    
