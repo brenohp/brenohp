@@ -1,7 +1,4 @@
-
 <h2 align="center">Hi 👋, I'm Breno Padovan <br><br> Technology enthusiast, welcome to my GitHub! <br><br> </h2>
-
-
 
 ### Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -21,13 +18,14 @@
 ##
 
 ### GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=brenohp&theme=transparent&bg_color=000&border_color=FFF&show_icons=true&icon_color=FFF&title_color=FFF&text_color=FFF&hide_title=True"/> </p>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=brenohp&theme=transparent&bg_color=000&border_color=FFF&show_icons=true&icon_color=FFF&title_color=FFF&text_color=FFF&hide_title=True" alt="GitHub Stats" style="width: 48%;" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brenohp&layout=compact&bg_color=000&border_color=FFF&title_color=FFF&text_color=FFF" alt="Top Languages" style="width: 48%;" />
+</div>
 
-<p align="left"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brenohp&layout=compact&bg_color=000&border_color=FFF&title_color=FFF&text_color=FFF"/> </p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=brenohp&theme=dark" alt="GitHub Streak" alt="brenohp"/> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=brenohp&theme=dark" alt="GitHub Streak" />
+</p>
 
 ##
 
@@ -41,8 +39,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:brenohpadovan@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brenohp)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@brenohp_/)
-
-
 
 <br><br><br><br><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=brenohp&label=Profile%20views&color=0e75b6&style=flat" alt="brenohp" /> </p>
