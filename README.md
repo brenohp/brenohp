@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi 👋, I'm Breno Padovan <br><br> Technology enthusiast, welcome to my GitHub! <br><br> </h2>
+<h2 align="center">Hi 👋, I'm Breno Padovan <br><br>, welcome to my GitHub! <br><br> </h2>
 
 
 
