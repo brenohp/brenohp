@@ -1,86 +1,62 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<div align="center">
+  <h1 align="center">Olá! Eu sou o Breno Padovan 👋</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Desenvolvedor+de+Software;Full+Stack" alt="Typing SVG" />
+  </a>
+</div>
 
-<h1 align="center"><b>Olá, eu sou o Breno Padovan</b></h1>
+<br>
 
-<br />
-<br />
+##  Resumo Profissional
 
-<p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=53289C&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;JavaScript+%7C+TypeScript+Specialist" alt="Typing SVG" /></a>
+<p>
+  Desenvolvedor Full-Stack com experiência na criação de soluções de ponta a ponta e estudante de Engenharia de Software. Minha paixão é transformar ideias em software robusto e escalável, com foco especial em arquiteturas de backend e na entrega de uma experiência de usuário limpa e funcional.
 </p>
 
-<br />
-	
-## Sobre mim
+- 🌱 Focado em aprimorar a qualidade e a distribuição de software através de **testes automatizados e da containerização com Docker**.
+- 🔭 Buscando ativamente oportunidades para colaborar em **projetos de código aberto** e contribuir para o desenvolvimento de **soluções inovadoras**.
+- 📫 Sinta-se à vontade para entrar em contato: **brenohpadovan@gmail.com**
 
 <br>
 
-[cite_start]Sou um Desenvolvedor [cite: 2] com experiência na criação de soluções completas, desde o backend até o frontend. [cite_start]Atualmente, estou cursando Bacharelado em Engenharia de Software[cite: 5].
+## 🛠️ Habilidades & Ferramentas
 
-[cite_start]Minha principal experiência inclui o desenvolvimento de um SaaS de agendamento do zero, onde fui responsável pela criação de APIs RESTful com **Node.js, TypeScript e Prisma** para o backend, e pelo desenvolvimento de uma interface moderna com **Next.js, React.js e TailwindCSS** no frontend[cite: 5]. [cite_start]Também possuo experiência com desenvolvimento de e-commerce utilizando **PHP e MySQL**[cite: 5].
-
-Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades para entregar produtos de alta qualidade.
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## Habilidades
-
-<p align="center">
-  - **Linguagens**:
-      ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-      ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-      ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-      ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-      ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-  - **Front-end**:
-      ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-      ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-      ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-  - **Back-end**:
-      ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-      
-  - **Banco de Dados**:
-      ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-      ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-  - **Ferramentas e Tecnologias**:
-      ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-      ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-      ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-      ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-      ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,php,tailwind,postgres,mysql,docker,git,github,jest,gcp&perline=14" />
+  </a>
 </p>
 
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estatísticas do Github </b>
-
 <br>
-
 <div align="center">
   <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenohp&show_icons=true&theme=transparent&title_color=9700cc&text_color=9700cc"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenohp&layout=compact&theme=transparent&title_color=9700cc&text_color=9700cc" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenohp&show_icons=true&theme=transparent&title_color=0e75b6&text_color=0e75b6"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenohp&layout=compact&theme=transparent&title_color=0e75b6&text_color=0e75b6" />
   <div>
 </div>
 
-<br />
-<br />
+<br>
+
+## 📫 Conecte-se comigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/brenohp/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:brenohpadovan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://github.com/brenohp">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://discord.com/users/COLOQUE_SEU_ID_AQUI">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</p>
 
 <div align="center">
-<p>
-  <a href="https://www.linkedin.com/in/brenohp" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin: brenohp-%230077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-  </a>
-</p>
-
-<p>
-  <a href="mailto:brenohpadovan@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/gmail: brenohpadovan-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-  </a>
-</p>
+  <img src="https://komarev.com/ghpvc/?username=brenohp&label=Profile%20views&color=0e75b6&style=flat" alt="brenohp" />
 </div>
