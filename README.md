@@ -52,7 +52,7 @@
   <a href="https://github.com/brenohp">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://discord.com/users/COLOQUE_SEU_ID_AQUI">
+  <a href="https://discord.com/users/172443014994722817">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
