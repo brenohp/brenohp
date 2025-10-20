@@ -10,7 +10,7 @@
 ##  Resumo Profissional
 
 <p>
-  Desenvolvedor Full-Stack com experiência na criação de soluções de ponta a ponta e estudante de Engenharia de Software. Minha paixão é transformar ideias em software robusto e escalável, com foco especial em arquiteturas de backend e na entrega de uma experiência de usuário limpa e funcional.
+  Desenvolvedor Full-Stack com experiência na criação de soluções de ponta a ponta e estudante de Engenharia de Software. Especialista em transformar ideias em software robusto e escalável, com foco especial em arquiteturas de backend e na entrega de uma experiência de usuário limpa e funcional.
 </p>
 
 - 🌱 Focado em aprimorar a qualidade e a distribuição de software através de **testes automatizados e da containerização com Docker**.
